@@ -1,4 +1,5 @@
 Coding Challenge: Infinite Scroll
+=================================
 
 ``` html
 <!DOCTYPE html>
